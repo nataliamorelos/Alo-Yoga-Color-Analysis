@@ -94,18 +94,18 @@ alo-yoga-color-analysis/
 
 ## Key Findings
 
-**Seasonality does improve color performance:**
+### Seasonality does improve color performance:**
 - Black search interest peaks in Fall but products released in Summer perform better (Fall avg revenue $882K vs $997K Summer)
 - Brown consistently delivers in Fall/Winter with a $512K avg revenue in Winter and highest search interest in Fall
 - Pink peaks in Spring/Summer with the highest search signal of all colors and seasons at 12.0
 - Green demand spikes in Spring but there is negative sentiment year round (opportunity to fix)
 
 
-**The Green Paradox**
+### The Green Paradox**
 
 Green has the highest sell through rate of 100 meaning inventory sells out the fastest. Yet, Reddit sentiment remains the most negative of any color (-0.03), with only about 25% of posts on r/aloyoga being positive and the 45% classified as negative. This suggests Alo releases green products in shades that leave customers disappointed, not that green itself is unpopular. Alo has historically leaned towards muted greens, such as Olive Tree and Limestone. Lighter, more saturated greens has stronger associations with Spring and Summer and this momentum can convert Green into a top performer all around.
 
-**Red is underleveraged**
+### Red is underleveraged**
 
 Red carries the highest sentiment score of any color mentioned at 0.112, meaning posts and comments mentioning red Alo products were significantly more positive than any other color. To contextualize, 61.6% of red related posts on r/aloyoga were classified as positive, whereas white came out at 17% and black at 25%. However, red only generated $1.9 million in total revenue across the entire top 50 analysis period, making it the lowest revenue color. The enthusiasm for red is real and mesasuremable but the product catalog is too small to convert into respective sales numbers. Google Trends supports this, red search interest peaks in Spring and holds in the Winter, giving it *two* seasonal windows per year. The gap between red's sentiment rank (1/11) and the search interest rank (9/11) indicates the most serious misalignment of the dataset and it is a clear low-risk opportunity for Alo to utilize. 
 
