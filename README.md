@@ -83,11 +83,17 @@ alo-yoga-color-analysis/
 ## Tools & Methods
 
 **Particl** | Alo Yoga sales rank, revenue data, product list
+
 **R** | Data cleaning, analysis, visualizations
+
 **Python** | Reddit sentiment scraping 
+
 **Google Trends API** | Search interest time series
+
 **ggplot2** | All charts and visualizations
+
 **TextBlob** | Sentiment scoring
+
 **Github Codespaces** | Development environment
 
 ---
